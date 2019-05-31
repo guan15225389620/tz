@@ -1,0 +1,12 @@
+{
+  "name": "tz",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node ./app.js -h"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3",
+  }
+}
